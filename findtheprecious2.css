@@ -1,0 +1,93 @@
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+
+#Fellows{
+	margin-top: 20px;
+}
+
+.texteimage{
+	position: absolute;
+		top: 55%;
+		left: 10%;
+		font-size: 15px;
+	background-color: white;
+		opacity: 1;
+		padding: 5px;
+		border-radius: 15px;
+}
+
+.textemort{
+	position: absolute;
+		top: 25%;
+		left: 20%;
+		font-size: 40px;
+		font-weight: bold; 
+}
+
+#survolimage1 img{
+	opacity: 0.50;
+}
+#survolimage1:hover img{
+	opacity: 1;
+}
+#survolimage1:hover p{
+	opacity: 0;
+}
+
+#survolimage2 img{
+	opacity: 0.50;
+}
+#survolimage2:hover img{
+	opacity: 1;
+}
+#survolimage2:hover p{
+	opacity: 0;
+}
+
+#survolimage3 img{
+	opacity: 0.50;
+}
+#survolimage3:hover img{
+	opacity: 1;
+}
+#survolimage3:hover p{
+	opacity: 0;
+}
+
+
+
+#GetMyReward{
+	margin-top: 40px;
+}
+
+
+#Besthunters{
+	margin-top: 40px;
+}
+
+#TheRing{
+	margin-top: 40px;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+
+th{
+	background-color: grey;
+}
