@@ -1,3 +1,22 @@
+@font-face {
+	font-family: "Party Business";
+	src: url('partybusiness.ttf');
+}
+
+@font-face {
+	font-family: "Aniron";
+	src: url('anirm___.ttf');
+}
+
+
+@font-face {
+	font-family: "Tengwar Annatar";
+	src: url('tngan.ttf');
+}
+
+
+
+
 
 body {
 	font-family: Party Business;
